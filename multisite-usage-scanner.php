@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
  * Plugin Name: Multisite Usage Scanner
  * Plugin URI: https://github.com/dominicjjohnson/plugin.multisite-usage-scanner
