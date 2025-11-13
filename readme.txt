@@ -1,5 +1,5 @@
 === Multisite Usage Scanner ===
-Contributors: dominicjjohnson
+Contributors: dominicmiramediacouk
 Tags: multisite, plugin management, admin tools, diagnostics
 Requires at least: 5.0
 Tested up to: 6.8
